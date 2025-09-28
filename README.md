@@ -1,2 +1,2 @@
 # DSA-Trip-Planner-API-Public-
-Mockup simulation showcasing good financial habit effects, using Python and MATLAB.
+CS 214 Final Project, analyzes and routes different scenarios, using Djikstra's Algorithm
